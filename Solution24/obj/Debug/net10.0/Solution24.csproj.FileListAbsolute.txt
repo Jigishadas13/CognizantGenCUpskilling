@@ -1,0 +1,14 @@
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\bin\Debug\net10.0\Solution24.exe
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\bin\Debug\net10.0\Solution24.deps.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\bin\Debug\net10.0\Solution24.runtimeconfig.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\bin\Debug\net10.0\Solution24.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\bin\Debug\net10.0\Solution24.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\obj\Debug\net10.0\Solution24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\obj\Debug\net10.0\Solution24.AssemblyInfoInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\obj\Debug\net10.0\Solution24.AssemblyInfo.cs
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\obj\Debug\net10.0\Solution24.csproj.CoreCompileInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\obj\Debug\net10.0\Solution24.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\obj\Debug\net10.0\refint\Solution24.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\obj\Debug\net10.0\Solution24.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\obj\Debug\net10.0\Solution24.genruntimeconfig.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution24\obj\Debug\net10.0\ref\Solution24.dll

@@ -1,0 +1,14 @@
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\bin\Debug\net10.0\Solution2.exe
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\bin\Debug\net10.0\Solution2.deps.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\bin\Debug\net10.0\Solution2.runtimeconfig.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\bin\Debug\net10.0\Solution2.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\bin\Debug\net10.0\Solution2.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\obj\Debug\net10.0\Solution2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\obj\Debug\net10.0\Solution2.AssemblyInfoInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\obj\Debug\net10.0\Solution2.AssemblyInfo.cs
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\obj\Debug\net10.0\Solution2.csproj.CoreCompileInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\obj\Debug\net10.0\Solution2.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\obj\Debug\net10.0\refint\Solution2.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\obj\Debug\net10.0\Solution2.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\obj\Debug\net10.0\Solution2.genruntimeconfig.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution2\obj\Debug\net10.0\ref\Solution2.dll

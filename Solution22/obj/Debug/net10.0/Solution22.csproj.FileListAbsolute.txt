@@ -1,0 +1,14 @@
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\bin\Debug\net10.0\Solution22.exe
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\bin\Debug\net10.0\Solution22.deps.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\bin\Debug\net10.0\Solution22.runtimeconfig.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\bin\Debug\net10.0\Solution22.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\bin\Debug\net10.0\Solution22.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\obj\Debug\net10.0\Solution22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\obj\Debug\net10.0\Solution22.AssemblyInfoInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\obj\Debug\net10.0\Solution22.AssemblyInfo.cs
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\obj\Debug\net10.0\Solution22.csproj.CoreCompileInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\obj\Debug\net10.0\Solution22.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\obj\Debug\net10.0\refint\Solution22.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\obj\Debug\net10.0\Solution22.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\obj\Debug\net10.0\Solution22.genruntimeconfig.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution22\obj\Debug\net10.0\ref\Solution22.dll

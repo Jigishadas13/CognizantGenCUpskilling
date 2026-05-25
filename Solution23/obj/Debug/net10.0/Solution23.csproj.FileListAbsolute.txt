@@ -1,0 +1,14 @@
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\bin\Debug\net10.0\Solution23.exe
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\bin\Debug\net10.0\Solution23.deps.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\bin\Debug\net10.0\Solution23.runtimeconfig.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\bin\Debug\net10.0\Solution23.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\bin\Debug\net10.0\Solution23.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\obj\Debug\net10.0\Solution23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\obj\Debug\net10.0\Solution23.AssemblyInfoInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\obj\Debug\net10.0\Solution23.AssemblyInfo.cs
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\obj\Debug\net10.0\Solution23.csproj.CoreCompileInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\obj\Debug\net10.0\Solution23.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\obj\Debug\net10.0\refint\Solution23.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\obj\Debug\net10.0\Solution23.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\obj\Debug\net10.0\Solution23.genruntimeconfig.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution23\obj\Debug\net10.0\ref\Solution23.dll

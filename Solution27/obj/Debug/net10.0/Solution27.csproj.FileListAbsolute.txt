@@ -1,0 +1,14 @@
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\bin\Debug\net10.0\Solution27.exe
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\bin\Debug\net10.0\Solution27.deps.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\bin\Debug\net10.0\Solution27.runtimeconfig.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\bin\Debug\net10.0\Solution27.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\bin\Debug\net10.0\Solution27.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\obj\Debug\net10.0\Solution27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\obj\Debug\net10.0\Solution27.AssemblyInfoInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\obj\Debug\net10.0\Solution27.AssemblyInfo.cs
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\obj\Debug\net10.0\Solution27.csproj.CoreCompileInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\obj\Debug\net10.0\Solution27.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\obj\Debug\net10.0\refint\Solution27.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\obj\Debug\net10.0\Solution27.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\obj\Debug\net10.0\Solution27.genruntimeconfig.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution27\obj\Debug\net10.0\ref\Solution27.dll

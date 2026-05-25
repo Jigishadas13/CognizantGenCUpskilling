@@ -1,0 +1,14 @@
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\bin\Debug\net10.0\Solution29.exe
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\bin\Debug\net10.0\Solution29.deps.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\bin\Debug\net10.0\Solution29.runtimeconfig.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\bin\Debug\net10.0\Solution29.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\bin\Debug\net10.0\Solution29.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\obj\Debug\net10.0\Solution29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\obj\Debug\net10.0\Solution29.AssemblyInfoInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\obj\Debug\net10.0\Solution29.AssemblyInfo.cs
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\obj\Debug\net10.0\Solution29.csproj.CoreCompileInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\obj\Debug\net10.0\Solution29.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\obj\Debug\net10.0\refint\Solution29.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\obj\Debug\net10.0\Solution29.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\obj\Debug\net10.0\Solution29.genruntimeconfig.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution29\obj\Debug\net10.0\ref\Solution29.dll

@@ -1,0 +1,14 @@
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\bin\Debug\net10.0\Solution3.exe
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\bin\Debug\net10.0\Solution3.deps.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\bin\Debug\net10.0\Solution3.runtimeconfig.json
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\bin\Debug\net10.0\Solution3.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\bin\Debug\net10.0\Solution3.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\obj\Debug\net10.0\Solution3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\obj\Debug\net10.0\Solution3.AssemblyInfoInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\obj\Debug\net10.0\Solution3.AssemblyInfo.cs
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\obj\Debug\net10.0\Solution3.csproj.CoreCompileInputs.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\obj\Debug\net10.0\Solution3.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\obj\Debug\net10.0\refint\Solution3.dll
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\obj\Debug\net10.0\Solution3.pdb
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\obj\Debug\net10.0\Solution3.genruntimeconfig.cache
+C:\Users\JIGISHA DAS\CognizantC#\Solution3\obj\Debug\net10.0\ref\Solution3.dll

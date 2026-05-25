@@ -1,0 +1,3 @@
+Program Started
+Logging Message
+Program Ended
