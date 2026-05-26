@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\JIGISHA DAS\\CognizantC#\\Solution24\\Solution24.csproj": {}
+    "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution24\\Solution24.csproj": {}
   },
   "projects": {
-    "c:\\Users\\JIGISHA DAS\\CognizantC#\\Solution24\\Solution24.csproj": {
+    "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution24\\Solution24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\JIGISHA DAS\\CognizantC#\\Solution24\\Solution24.csproj",
+        "projectUniqueName": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution24\\Solution24.csproj",
         "projectName": "Solution24",
-        "projectPath": "c:\\Users\\JIGISHA DAS\\CognizantC#\\Solution24\\Solution24.csproj",
+        "projectPath": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution24\\Solution24.csproj",
         "packagesPath": "C:\\Users\\JIGISHA DAS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\JIGISHA DAS\\CognizantC#\\Solution24\\obj\\",
+        "outputPath": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution24\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JIGISHA DAS\\AppData\\Roaming\\NuGet\\NuGet.Config"

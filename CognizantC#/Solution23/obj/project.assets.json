@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution23\\Solution23.csproj",
+      "projectUniqueName": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution23\\Solution23.csproj",
       "projectName": "Solution23",
-      "projectPath": "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution23\\Solution23.csproj",
+      "projectPath": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution23\\Solution23.csproj",
       "packagesPath": "C:\\Users\\JIGISHA DAS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution23\\obj\\",
+      "outputPath": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JIGISHA DAS\\AppData\\Roaming\\NuGet\\NuGet.Config"

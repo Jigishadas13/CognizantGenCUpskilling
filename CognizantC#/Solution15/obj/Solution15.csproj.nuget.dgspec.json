@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution15\\Solution15.csproj": {}
+    "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution15\\Solution15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution15\\Solution15.csproj": {
+    "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution15\\Solution15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution15\\Solution15.csproj",
+        "projectUniqueName": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution15\\Solution15.csproj",
         "projectName": "Solution15",
-        "projectPath": "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution15\\Solution15.csproj",
+        "projectPath": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution15\\Solution15.csproj",
         "packagesPath": "C:\\Users\\JIGISHA DAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution15\\obj\\",
+        "outputPath": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JIGISHA DAS\\AppData\\Roaming\\NuGet\\NuGet.Config"

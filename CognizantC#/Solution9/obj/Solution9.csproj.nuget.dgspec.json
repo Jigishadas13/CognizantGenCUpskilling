@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution9\\Solution9.csproj": {}
+    "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution9\\Solution9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution9\\Solution9.csproj": {
+    "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution9\\Solution9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution9\\Solution9.csproj",
+        "projectUniqueName": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution9\\Solution9.csproj",
         "projectName": "Solution9",
-        "projectPath": "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution9\\Solution9.csproj",
+        "projectPath": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution9\\Solution9.csproj",
         "packagesPath": "C:\\Users\\JIGISHA DAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JIGISHA DAS\\CognizantC#\\Solution9\\obj\\",
+        "outputPath": "C:\\Users\\JIGISHA DAS\\CognizantGenCUpskilling\\CognizantC#\\Solution9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JIGISHA DAS\\AppData\\Roaming\\NuGet\\NuGet.Config"

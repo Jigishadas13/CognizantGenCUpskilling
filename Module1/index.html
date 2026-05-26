@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Local Community Event Portal</title>
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body onbeforeunload="return warningMessage()">
+
+    <!-- Header -->
+    <header id="mainHeader">
+        <h1>Local Community Event Portal</h1>
+
+        <!-- Navigation -->
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#events">Events</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#register">Register</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="help.html" target="_blank">Help</a></li>
+            </ul>
+        </nav>
+        <button id="darkModeBtn">
+           Toggle Dark Mode
+        </button>
+    </header>
+    <section class="hero">
+
+    <div class="heroOverlay">
+
+        <h1>
+            Discover Amazing Community Events
+        </h1>
+
+        <p>
+            Music • Sports • Food • Art • Networking
+        </p>
+
+        <a href="#events" class="heroBtn">
+            Explore Events
+        </a>
+
+    </div>
+
+</section>
+<section class="statsSection">
+
+    <div class="statCard">
+
+        <h2>120+</h2>
+
+        <p>Events Hosted</p>
+
+    </div>
+
+    <div class="statCard">
+
+        <h2>15K+</h2>
+
+        <p>Registrations</p>
+
+    </div>
+
+    <div class="statCard">
+
+        <h2>50+</h2>
+
+        <p>Communities</p>
+
+    </div>
+
+    <div class="statCard">
+
+        <h2>25+</h2>
+
+        <p>Sponsors</p>
+
+    </div>
+
+</section>
+    <!-- Welcome Banner -->
+    <section id="home">
+
+        <div id="welcomeBanner">
+            Welcome to Community Portal
+
+            <span class="specialOffer">
+                Special Offer: Free Registration Today!
+            </span>
+        </div>
+
+    </section>
+
+    <!-- Events Section -->
+    <section id="events">
+
+        <h2>Upcoming Events</h2>
+
+        <div class="eventContainer" id="eventContainer">
+
+        </div>
+
+    </section>
+
+    <!-- Gallery -->
+    <section id="gallery">
+
+        <h2>Community Event Gallery</h2>
+
+        <table>
+
+            <tr>
+
+                <td>
+                    <img src="images/music.jpg"
+                         alt="Music Event"
+                         title="Music Event"
+                         class="gallery-img"
+                         ondblclick="enlarge(this)">
+                    <p>Music Festival</p>
+                </td>
+
+                <td>
+                    <img src="images/dance.jpeg"
+                         alt="Dance Event"
+                         title="Dance Event"
+                         class="gallery-img"
+                         ondblclick="enlarge(this)">
+                    <p>Dance Show</p>
+                </td>
+
+                <td>
+                    <img src="images/sports.jpeg"
+                         alt="Sports Event"
+                         title="Sports Event"
+                         class="gallery-img"
+                         ondblclick="enlarge(this)">
+                    <p>Sports Meet</p>
+                </td>
+
+            </tr>
+
+            <tr>
+
+                <td>
+                    <img src="images/food.jpeg"
+                         alt="Food Event"
+                         title="Food Event"
+                         class="gallery-img"
+                         ondblclick="enlarge(this)">
+                    <p>Food Carnival</p>
+                </td>
+
+                <td>
+                    <img src="images/art.jpeg"
+                         alt="Art Event"
+                         title="Art Event"
+                         class="gallery-img"
+                         ondblclick="enlarge(this)">
+                    <p>Art Exhibition</p>
+                </td>
+
+                <td>
+                    <img src="images/book.jpeg"
+                         alt="Book Fair"
+                         title="Book Fair"
+                         class="gallery-img"
+                         ondblclick="enlarge(this)">
+                    <p>Book Fair</p>
+                </td>
+
+            </tr>
+
+        </table>
+
+    </section>
+
+    <!-- Registration Form -->
+    <section id="register">
+
+        <h2>Event Registration</h2>
+
+        <form id="registrationForm">
+
+            <input type="text"
+                   id="name"
+                   placeholder="Enter Name"
+                   required
+                   autofocus>
+
+            <input type="email"
+                   id="email"
+                   placeholder="Enter Email"
+                   required>
+
+            <input type="date"
+                   id="date"
+                   required>
+
+            <select id="eventType"
+                    onchange="showFee(this.value)"
+                    required>
+
+                <option value="">Select Event</option>
+                <option value="100">Music</option>
+                <option value="200">Sports</option>
+                <option value="150">Dance</option>
+
+            </select>
+
+            <p id="fee"></p>
+
+            <input type="text"
+                   id="phone"
+                   placeholder="Enter Phone Number"
+                   onblur="validatePhone()">
+
+            <textarea id="feedback"
+                      placeholder="Enter Feedback"
+                      onkeyup="countChars(this)">
+            </textarea>
+
+            <p id="count"></p>
+
+            <button type="submit" id="registerBtn">
+                Register
+            </button>
+
+           
+
+            <output id="msg"></output>
+
+        </form>
+
+    </section>
+
+    <!-- Video Section -->
+   <!-- Promo Videos -->
+
+<section id="promoVideos">
+
+    <h2>Community Event Promo Videos</h2>
+
+    <div class="videoContainer">
+
+        <!-- Video 1 -->
+
+        <div class="videoCard">
+
+            <iframe
+                src="https://www.youtube.com/embed/z_6iEl07kK4?si=frIqhgKlSDwxeKEn"
+                title="Promo Video 1"
+                allowfullscreen>
+            </iframe>
+
+            <h3>Music Festival Highlights</h3>
+
+        </div>
+
+        <!-- Video 2 -->
+
+        <div class="videoCard">
+
+            <iframe
+                src="https://www.youtube.com/embed/v1JWFuWNlF4?si=K1U1VGQnsddpvzbK"
+                title="Promo Video 2"
+                allowfullscreen>
+            </iframe>
+
+            <h3>Sports Event Highlights</h3>
+
+        </div>
+
+        <!-- Video 3 -->
+
+        <div class="videoCard">
+
+            <iframe
+                src="https://www.youtube.com/embed/XBdbCNPl7Js?si=fx6Tl4InFEOJivBU"
+                title="Promo Video 3"
+                allowfullscreen>
+            </iframe>
+
+            <h3>Dil se Dandiya Highlights</h3>
+
+        </div>
+
+    </div>
+
+</section>
+
+    <!-- Geolocation -->
+    <section>
+
+        <h2>Find Nearby Events</h2>
+
+        <button onclick="findLocation()">
+            Find Nearby Events
+        </button>
+
+        <p id="location"></p>
+
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+
+        <h2>Contact Us</h2>
+
+        <p>Email: communityportal@gmail.com</p>
+
+    </section>
+    <section class="testimonialSection">
+
+    <h2>What People Say</h2>
+
+    <div class="testimonialContainer">
+
+        <div class="testimonialCard">
+
+            <img src="images/rahul.jpg">
+
+            <h3>Rahul Sharma</h3>
+
+            <p>
+                Amazing experience and beautifully organized events.
+            </p>
+
+        </div>
+
+        <div class="testimonialCard">
+
+            <img src="images/ananya.jpg">
+
+            <h3>Ananya Das</h3>
+
+            <p>
+                The portal is very easy to use and interactive.
+            </p>
+
+        </div>
+
+        <div class="testimonialCard">
+
+            <img src="images/priya.jpg">
+
+            <h3>Priya Verma</h3>
+
+            <p>
+                Loved the music festival registration experience.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+    <!-- Footer -->
+   <footer class="modernFooter">
+
+    <div class="footerGrid">
+
+        <div>
+
+            <h3>Community Portal</h3>
+
+            <p>
+                Connecting people through amazing events.
+            </p>
+
+        </div>
+
+        <div>
+
+            <h3>Quick Links</h3>
+
+            <p>Home</p>
+            <p>Events</p>
+            <p>Gallery</p>
+
+        </div>
+
+        <div>
+
+            <h3>Contact</h3>
+
+            <p>Email: support@community.com</p>
+            <p>Phone: +91 9876543210</p>
+
+        </div>
+
+    </div>
+
+</footer>
+ 
+    <!-- External JS -->
+    <script src="main.js"></script>
+  <a href="#register" class="floatingBtn">
+
+    Register
+
+</a>
+</body>
+
+</html>
