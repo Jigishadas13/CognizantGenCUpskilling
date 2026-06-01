@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery Selectors</title>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+
+    <h1 id="heading">Welcome</h1>
+
+    <p id="para1">
+        This is the first paragraph.
+    </p>
+
+    <p id="para2">
+        This is the second paragraph.
+    </p>
+
+    <button id="hideBtn">
+        Hide Paragraph
+    </button>
+
+    <script>
+        $(document).ready(function () {
+
+            $("#heading").text("jQuery DOM Manipulation Example");
+
+            $("#hideBtn").click(function () {
+                $("#para2").hide();
+            });
+
+        });
+    </script>
+
+</body>
+</html>
